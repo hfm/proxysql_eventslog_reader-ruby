@@ -1,0 +1,6 @@
+#ifndef PROXYSQL_EVENTSLOG_READER_H
+#define PROXYSQL_EVENTSLOG_READER_H 1
+
+#include "ruby.h"
+
+#endif /* PROXYSQL_EVENTSLOG_READER_H */
